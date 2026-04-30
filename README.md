@@ -12,6 +12,6 @@
 
 ### Tech Stack
 - **Languages:** Python, Java, SQL, C
-- **Tools:** Scikit-Learn, Pandas, Google Colab, Arduino IDE
+- **Tools:** Scikit-Learn, Pandas, Google Colab
 
 ![Shikha's Stats](https://github-readme-stats.vercel.app/api?username=ShikhaChauhan20&show_icons=true&theme=radical)
