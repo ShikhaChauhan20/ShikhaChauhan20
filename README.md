@@ -8,7 +8,7 @@
 
 - **[Predict User Behavior (Ad Click Predictor)](https://github.com/ShikhaChauhan20/Ad-Click-Prediction-Analysis)**: Project using **Logistic Regression** to classify users likely to click on ads based on demographics.
 
-- - **[Treasure Hunt Adventure](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh)**: A logic-based interactive game built to handle complex branching decision paths; currently being updated with **custom UI assets** and **cartoon character designs**. (In Progress)
+- **[Treasure Hunt Adventure](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh)**: A logic-based interactive game built to handle complex branching decision paths; currently being updated with **custom UI assets** and **cartoon character designs**. (In Progress)
 
 ### Tech Stack
 - **Languages:** Python, Java, SQL, C
