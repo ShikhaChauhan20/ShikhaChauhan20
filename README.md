@@ -2,7 +2,7 @@
 **B.Tech CSE Student**
 
 ### Projects
--- **[CardioPredict Web App](https://github.com/ShikhaChauhan20/Heart-Disease-Prediction-ML)** ([Live Demo](https://heart-disease-predictor-gs3c.onrender.com)): A full-stack machine learning web application powered by Flask and optimized classification models to evaluate cardiovascular disease risk metrics instantly in real time.
+- **[CardioPredict Web App](https://github.com/ShikhaChauhan20/Heart-Disease-Prediction-ML)**                          ([Live Demo](https://heart-disease-predictor-gs3c.onrender.com)): A full-stack machine learning web application powered by Flask and optimized classification models to evaluate cardiovascular disease risk metrics instantly in real time.
 
 - **[Railway Reservation Database System](https://github.com/ShikhaChauhan20/Railway-DBMS-Core)**: A 3NF Normalized Backend for High-Concurrency Transportation Networks.(IN PROGRESS)
 
