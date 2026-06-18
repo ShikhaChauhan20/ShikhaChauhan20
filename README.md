@@ -4,9 +4,9 @@
 ### Projects
 - **[CardioPredict Web App](https://github.com/ShikhaChauhan20/Heart-Disease-Prediction-ML)**                          ([Live Demo](https://heart-disease-predictor-gs3c.onrender.com)): A full-stack machine learning web application powered by Flask and optimized classification models to evaluate cardiovascular disease risk metrics instantly in real time.
 
-- **[Railway Reservation Database System](https://github.com/ShikhaChauhan20/Railway-DBMS-Core)**: A 3NF Normalized Backend for High-Concurrency Transportation Networks.(IN PROGRESS)
+- **[Railway Reservation Database System](https://github.com/ShikhaChauhan20/Railway-DBMS-Core)**: A 3NF Normalized Backend for High-Concurrency Transportation Networks.(In Progress)
 
-- **[Predict User Behavior (Ad Click Predictor)](https://github.com/ShikhaChauhan20/Ad-Click-Prediction-Analysis)**: Project using **Logistic Regression** to classify users likely to click on ads based on demographics.
+- **[Predict User Behavior (Ad Click Predictor)](https://github.com/ShikhaChauhan20/Ad-Click-Prediction-Analysis)**: Project using **Logistic Regression** to classify users likely to click on ads based on demographics.(In Progress)
 
 - **[Treasure Hunt Adventure](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh)**: A logic-based interactive game built to handle complex branching decision paths; Finally updated with **custom UI assets** and **cartoon character designs**. 
 
