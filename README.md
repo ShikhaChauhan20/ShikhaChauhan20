@@ -12,7 +12,7 @@
 
 - **[Treasure Hunt Adventure](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh)**: A logic-based interactive game built to handle complex branching decision paths; Finally updated with **custom UI assets** and **cartoon character designs**.
 
-- **[Python Dungeon Crawler - IN RPOGRESS](https://github.com/ShikhaChauhan20/python-dungeon-crawler)**: A 2D top-down dungeon crawler game built from scratch using Python and Pygame. Features a custom game loop, real-time event handling, and a modular architecture.
+- **[Python Dungeon Crawler - (IN PROGRESS)](https://github.com/ShikhaChauhan20/python-dungeon-crawler)**: A 2D top-down dungeon crawler game built from scratch using Python and Pygame. Features a custom game loop, real-time event handling, and a modular architecture.
 ### Tech Stack
 - **Languages:** Python, Java, SQL, C, JavaScript
 - **Tools/Frameworks:** Scikit-Learn, Pandas, Google Colab, Tailwind CSS
