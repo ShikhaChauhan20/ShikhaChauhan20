@@ -1,20 +1,27 @@
-# Hi, I'm Shikha Chauhan 
-**B.Tech CSE Student**
+<div align="center">
 
-### Projects
-- **[Grademeter (CGPA/SGPA Calculator)](https://github.com/ShikhaChauhan20/CGPA_Calculator)** ([Live Demo](https://shikhachauhan20.github.io/CGPA_Calculator/)): A fully responsive client-side web application built with Tailwind CSS to calculate semester SGPA and track cumulative CGPA, featuring real-time state persistence via LocalStorage.
+# ⚡ Shikha Chauhan
+**B.Tech CSE** • Building games, ML web apps & clean backends.
 
-- **[CardioPredict Web App](https://github.com/ShikhaChauhan20/Heart-Disease-Prediction-ML)** ([Live Demo](https://heart-disease-predictor-gs3c.onrender.com)): A full-stack machine learning web application powered by Flask and optimized classification models to evaluate cardiovascular disease risk metrics instantly in real time.
+`Python` `Java` `SQL` `JavaScript` `C` • `Scikit-Learn` `Flask` `Tailwind CSS` `Pygame`
 
-- **[Railway Reservation Database System](https://github.com/ShikhaChauhan20/Railway-DBMS-Core)**: A 3NF Normalized Backend for High-Concurrency Transportation Networks.(In Progress)
+</div>
 
-- **[Predict User Behavior (Ad Click Predictor)](https://github.com/ShikhaChauhan20/Ad-Click-Prediction-Analysis)**: Project using **Logistic Regression** to classify users likely to click on ads based on demographics.(In Progress)
+---
 
-- **[Treasure Hunt Adventure](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh)**: A logic-based interactive game built to handle complex branching decision paths; Finally updated with **custom UI assets** and **cartoon character designs**.
+### 🚀 Things I've Built
 
-- **[Python Dungeon Crawler - (IN PROGRESS)](https://github.com/ShikhaChauhan20/python-dungeon-crawler)**: A 2D top-down dungeon crawler game built from scratch using Python and Pygame. Features a custom game loop, real-time event handling, and a modular architecture.
-### Tech Stack
-- **Languages:** Python, Java, SQL, C, JavaScript
-- **Tools/Frameworks:** Scikit-Learn, Pandas, Google Colab, Tailwind CSS
+| Project | What it is | Links |
+| :--- | :--- | :--- |
+| **Grademeter** | Responsive SGPA/CGPA tracker with LocalStorage persistence (`Tailwind CSS`) | [Code](https://github.com/ShikhaChauhan20/CGPA_Calculator) • [Live](https://shikhachauhan20.github.io/CGPA_Calculator/) |
+| **CardioPredict** | Real-time heart disease risk predictor (`Flask` `Scikit-Learn`) | [Code](https://github.com/ShikhaChauhan20/Heart-Disease-Prediction-ML) • [Live](https://heart-disease-predictor-gs3c.onrender.com) |
+| **Treasure Hunt Fahhhhh** | Branching logic adventure game with custom UI & character art | [Code](https://github.com/ShikhaChauhan20/Treasure_Hunt_Fahhhhh) |
+| **Python Dungeon Crawler** | 2D top-down game built from scratch (`Python` `Pygame`) *(WIP)* | [Code](https://github.com/ShikhaChauhan20/python-dungeon-crawler) |
+| **Railway-DBMS-Core** | 3NF normalized relational backend for high-concurrency transit *(WIP)* | [Code](https://github.com/ShikhaChauhan20/Railway-DBMS-Core) |
+| **Ad Click Predictor** | User behavior classification via Logistic Regression *(WIP)* | [Code](https://github.com/ShikhaChauhan20/Ad-Click-Prediction-Analysis) |
 
-![Shikha's Stats](https://github-readme-stats.vercel.app/api?username=ShikhaChauhan20&show_icons=true&theme=radical)
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShikhaChauhan20&show_icons=true&theme=radical&hide_border=true" />
+</div>
