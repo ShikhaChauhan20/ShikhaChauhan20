@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Shikha Chauhan
+#  Shikha Chauhan
 **B.Tech CSE** • Building games, ML web apps & clean backends.
 
 `Python` `Java` `SQL` `JavaScript` `C` • `Scikit-Learn` `Flask` `Tailwind CSS` `Pygame`
@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Things I've Built
+###  Things I've Built
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
